@@ -1,1 +1,2 @@
-# bash.script
+i love to read
+
